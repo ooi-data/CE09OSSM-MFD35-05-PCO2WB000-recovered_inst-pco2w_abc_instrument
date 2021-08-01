@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSSM-MFD35-05-PCO2WB000-recovered_inst-pco2w_abc_instrument
-last_request: '2021-07-19T18:16:41.567475Z'
+last_request: '2021-08-01T01:22:57.301830Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-MFD35-05-PCO2WB000-recovered_inst-pco2w_abc_instrument/main/history/response.json
-status: success
+status: failed
